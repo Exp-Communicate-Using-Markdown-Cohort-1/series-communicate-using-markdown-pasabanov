@@ -23,3 +23,7 @@ for y = 1.0:-0.05:-1.0
     println()
 end
 ```
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
